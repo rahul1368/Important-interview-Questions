@@ -5,4 +5,5 @@
 
 ####  We have many options to multiply a chain of matrices because matrix multiplication is associative. In other words, no matter   how we parenthesize the product, the result will be the same. For example, if we had four matrices A, B, C, and D, we would     have:
 
-########   (ABC)D = (AB)(CD) = A(BCD) = ....
+  (ABC)D = (AB)(CD) = A(BCD) = ....
+  ---------------------------------
